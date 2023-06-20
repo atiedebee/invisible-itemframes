@@ -53,6 +53,4 @@ public class ItemFrameEntityMixin {
 
 		}
 	}
-//	private void dropHeldStack(@Nullable Entity entity, boolean alwaysDrop) {
-
 }

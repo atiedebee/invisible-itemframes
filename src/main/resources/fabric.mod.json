@@ -3,15 +3,15 @@
 	"id": "inivisible-itemframes",
 	"version": "0.1",
 	"name": "Inivisible Itemframes",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Make invisible itemframes accesible to survival.",
 	"authors": [
 		"atiedebee"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/atiedebee/invisible-itemframes",
+		"sources": "https://github.com/atiedebee/invisible-itemframes"
 	},
-	"license": "CC0-1.0",
+	"license": "LGPL-2.1",
 	"icon": "assets/inivisible-itemframes/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -29,6 +29,5 @@
 		"fabric-api": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
 	}
 }
